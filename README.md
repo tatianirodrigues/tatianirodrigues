@@ -24,11 +24,6 @@ Here are some ideas to get you started:
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianirodrigues&layout=compact&langs_count=7&theme=solarized-light"/>
 </div>
 
-
-<div align="center">
-<img height="300em" src="https://activity-graph.herokuapp.com/graph?username=tatianirodrigues&bg_color=ffefd5&color=4169e1&line=dda0dd&point=1111&area=true&hide_border=true"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Tati-jv" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="tati-Js" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
