@@ -1,4 +1,4 @@
-### Olá!! 👋
+### Olá!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Meu nome é Tatiani Rodrigues e esse é meu perfil no GITHUB 🖤 
 
 <!--
@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 -->
 
   ##
- 
+
 <div align="center">
   <a href="https://github.com/tatianirodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tatianirodrigues&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianirodrigues&layout=compact&langs_count=7&theme=solarized-light"/>
+</div>
+
+
+<div align="center">
+<img height="300em" src="https://activity-graph.herokuapp.com/graph?username=tatianirodrigues&bg_color=ffefd5&color=4169e1&line=dda0dd&point=1111&area=true&hide_border=true"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,12 +37,11 @@ Here are some ideas to get you started:
 </div>
 
   ##
- 
+ #### Connect with me:
 <div> 
   <a href="https://www.linkedin.com/in/tatianipereirarodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:rodriguespereiratatiani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/tatirodriiguees" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/tatianirodrigues/tatianirodrigues/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
