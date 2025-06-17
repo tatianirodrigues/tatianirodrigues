@@ -1,11 +1,8 @@
-
-### Olá!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Meu nome é Tati e esse é meu perfil no GitHub  
-#
 # 👩🏻‍💻 Tatiani Pereira Rodriges
 **`Desenvolvedora FullStack`**
 
-Tenho 29 anos e sou natural de Santa Catarina. Formada em Pedagogia e cursando Análise e Desenvolvimento de Sistemas, me especializei no curso Entra21 (Senac), focado em desenvolvimento em Java Web. Meu primeiro contato com tecnologia foi atuando como estagiária em RPA na Capgemini, onde trabalhei com automações e suporte técnico, o que contribuiu para desenvolver meu olhar analítico e capacidade de resolver problemas. Atualmente, presto serviços como desenvolvedora full stack júnior na Oais Cloud, usando JavaScript, PHP, React, Vue.js, Quasar, SQL e Docker. Minha trajetória une tecnologia e educação, com experiências em projetos acadêmicos e educação infantil.
+### Olá!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Meu nome é Tatiani, tenho 29 anos e sou natural de Santa Catarina. Formada em Pedagogia e cursando Análise e Desenvolvimento de Sistemas, me especializei no curso Entra21 (Senac), focado em desenvolvimento em Java Web. Meu primeiro contato com tecnologia foi atuando como estagiária em RPA na Capgemini, onde trabalhei com automações e suporte técnico, o que contribuiu para desenvolver meu olhar analítico e capacidade de resolver problemas. Atualmente, presto serviços como desenvolvedora full stack júnior na Oais Cloud, usando JavaScript, PHP, React, Vue.js, Quasar, SQL e Docker. Minha trajetória une tecnologia e educação, com experiências em projetos acadêmicos e educação infantil.
 <p align="left" justify="center">
   <a href="https://www.linkedin.com/in/tatianipereirarodrigues" target="_blank">
   <img width="31px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
