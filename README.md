@@ -23,5 +23,3 @@ I like turning repetitive support work into automation, writing clear docs, and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tatianipereirarodrigues-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianipereirarodrigues/)
 [![Email](https://img.shields.io/badge/Email-rodriguespereiratatiani%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:rodriguespereiratatiani@gmail.com)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatianirodrigues&show_icons=true&hide_border=true&theme=default)
