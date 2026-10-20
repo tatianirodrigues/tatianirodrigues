@@ -1,143 +1,27 @@
-[# 👩🏻‍💻 Tatiani Pereira Rodriges
-**`Desenvolvedora FullStack`**
+# Hi, I'm Tatiani Pereira Rodrigues 👋
 
-### Olá!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Meu nome é Tatiani, tenho 29 anos e sou natural de Santa Catarina. Formada em Pedagogia e cursando Análise e Desenvolvimento de Sistemas, me especializei no curso Entra21 (Senac), focado em desenvolvimento em Java Web. Meu primeiro contato com tecnologia foi atuando como estagiária em RPA na Capgemini, onde trabalhei com automações e suporte técnico, o que contribuiu para desenvolver meu olhar analítico e capacidade de resolver problemas. Atualmente, presto serviços como desenvolvedora full stack júnior na Oais Cloud, usando JavaScript, PHP, React, Vue.js, Quasar, SQL e Docker. Minha trajetória une tecnologia e educação, com experiências em projetos acadêmicos e educação infantil.
-<p align="left" justify="center">
-  <a href="https://www.linkedin.com/in/tatianipereirarodrigues" target="_blank">
-  <img width="31px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-</a>
-  &#8287;&#8287;
-<a href="mailto:rodriguespereiratatiani@gmail.com">
-  <img width="32px" alt="Gmail" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
-</a>
-</p>
+**Software Engineer** · Python / Django · JavaScript · Fintech
+I build and support web applications. Today I work at [Franq](https://franq.com.br), a Brazilian fintech, developing REST APIs with **Python, Django and Django REST Framework** and owning the production-support workflow: root-cause analysis, hot-fixes, process automation (e-mail → Jira, SLA monitoring) and technical documentation.
 
-#
+Before that I was a full-stack developer (**JavaScript, React, Vue.js, PHP, Docker**) at OAIS Cloud and an RPA intern at Capgemini (**UiPath, Power Automate**).
 
-### 🤖 Linguagens e Tecnologias
+I like turning repetitive support work into automation, writing clear docs, and helping newer developers get up to speed.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+## Tech stack
 
-<img 
-    align="left" 
-    alt="Vue.js"
-    title="Vue.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Quasar"
-    title="Quasar" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Sql" 
-    title="Sql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+**Languages:** Python · JavaScript · TypeScript · PHP · SQL · HTML · CSS
+**Frameworks:** Django · Django REST Framework · React · Vue.js · Quasar
+**Tools:** Docker · Git · Jira · Confluence · Postman · Figma · UiPath · Power Automate
 
-<br/>
+## Currently
 
-#
+- Building small Python/Django and Vu e projects to share here
+- Studying for a cloud fundamentals certification (Azure / AWS)
+- Open to Software Engineer, Backend and Technical/Application Support roles in Ireland
 
-### 📊 Estatísticas
-<div align="left">
-  <a href="https://github.com/tatianirodrigues">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=tatianirodrigues&show_icons=true&theme=solarized-light&include_all_commits=true&locale=pt-br&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianirodrigues&layout=compact&custom_title=Tecnologias&langs_count=9&theme=solarized-light&cache_seconds=86400" />
+## Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tatianipereirarodrigues-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianipereirarodrigues/)
+[![Email](https://img.shields.io/badge/Email-rodriguespereiratatiani%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:rodriguespereiratatiani@gmail.com)
 
-
-
-
-
-
-
-](https://franq.atlassian.net/browse/SUS-2681)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatianirodrigues&show_icons=true&hide_border=true&theme=default)
