@@ -13,11 +13,6 @@ I like turning repetitive support work into automation, writing clear docs, and 
 **Frameworks:** Django · Django REST Framework · React · Vue.js · Quasar
 **Tools:** Docker · Git · Jira · Confluence · Postman · Figma · UiPath · Power Automate
 
-## Currently
-
-- Building small Python/Django and Vu e projects to share here
-- Studying for a cloud fundamentals certification (Azure / AWS)
-- Open to Software Engineer, Backend and Technical/Application Support roles in Ireland
 
 ## Contact
 
