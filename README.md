@@ -2,11 +2,10 @@
 
 **Software Engineer** · Python / Django · JavaScript · Fintech
 
-I build and support web applications. Today I work at [Franq](https://franq.com.br), a Brazilian fintech, developing REST APIs with **Python, Django and Django REST Framework** and owning the production-support workflow: root-cause analysis, hot-fixes, process automation (e-mail → Jira, SLA monitoring) and technical documentation.
+I build and support web applications. Today I work at [Franq](https://franq.com.br), a Brazilian fintech, developing REST APIs with **Python, Django and Django REST Framework** and owning the production-support workflow: root-cause analysis, hot-fixes, process automation and technical documentation.
 
 Before that I was a full-stack developer (**JavaScript, React, Vue.js, PHP, Docker**) at OAIS Cloud and an RPA intern at Capgemini (**UiPath, Power Automate**).
 
-I like turning repetitive support work into automation, writing clear docs, and helping newer developers get up to speed.
 
 ## Tech stack
 
