@@ -1,6 +1,7 @@
 # Hi, I'm Tatiani Pereira Rodrigues 👋
 
 **Software Engineer** · Python / Django · JavaScript · Fintech
+
 I build and support web applications. Today I work at [Franq](https://franq.com.br), a Brazilian fintech, developing REST APIs with **Python, Django and Django REST Framework** and owning the production-support workflow: root-cause analysis, hot-fixes, process automation (e-mail → Jira, SLA monitoring) and technical documentation.
 
 Before that I was a full-stack developer (**JavaScript, React, Vue.js, PHP, Docker**) at OAIS Cloud and an RPA intern at Capgemini (**UiPath, Power Automate**).
@@ -9,10 +10,9 @@ I like turning repetitive support work into automation, writing clear docs, and 
 
 ## Tech stack
 
-**Languages:** Python · JavaScript · TypeScript · PHP · SQL · HTML · CSS
-**Frameworks:** Django · Django REST Framework · React · Vue.js · Quasar
-**Tools:** Docker · Git · Jira · Confluence · Postman · Figma · UiPath · Power Automate
-
+- **Languages:** Python · JavaScript · PHP · SQL · HTML · CSS
+- **Frameworks:** Django · Django REST Framework · React · Vue.js
+- **Tools:** Docker · Git · Jira · Confluence · Postman · Figma · UiPath · Power Automate · Claude / Claude Code
 
 ## Contact
 
